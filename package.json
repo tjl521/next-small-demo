@@ -16,10 +16,10 @@
     "remark-html": "^15.0.0"
   },
   "engines": {
-		"node": ">=18"
-	},
-	"browserslist": [
-		"> 0.25%",
-		"not dead"
-	]
+    "node": ">=18"
+   },
+   "browserslist": [
+      "> 0.25%",
+      "not dead"
+    ]
 }
